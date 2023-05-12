@@ -1,0 +1,1 @@
+gcc cd.c cat.c echo.c ls.c main.c pinfo.c sign.c pwd.c repeat.c jobs.c sort.c processes.c piping.c sig.c fg.c bg.c -o main
